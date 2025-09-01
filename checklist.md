@@ -6,6 +6,7 @@
 [ ] - Azure Container Instance
 [ ] - Github Actions
 
+Fase 1:
 Objetivo: Aplicação em dotnet mvc.
           Observabilidade com Grafana e Prometheus,
           Containerizado com docker e provisionado com Terraform,
